@@ -32,7 +32,7 @@ const App = () => {
     },
     {
       id: nanoid(),
-      text: 'this is te odd note',
+      text: 'this is the odd note',
       date: '03th feb 2020'
     },
 

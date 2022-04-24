@@ -5,6 +5,18 @@
   padding-right: 15px;
   padding-left: 15px;
 }
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dark-mode{
+  background-color: black;
+}
+.dark-mode h1{
+  background-color: white;
+}
 .note{
   background-color: #fef68a;
   margin-bottom: 10px;

@@ -4,6 +4,7 @@
   margin-right: auto;
   padding-right: 15px;
   padding-left: 15px;
+  min-height: 100vh;
 }
 
 .header{
@@ -15,7 +16,7 @@
   background-color: black;
 }
 .dark-mode h1{
-  background-color: white;
+ color: white;
 }
 .note{
   background-color: #fef68a;
